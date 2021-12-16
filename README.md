@@ -3,6 +3,9 @@ This site is used to view `.txt` files that have been uploaded to Discord.
 The site is static; the data loading and formatting is performed clientside.
 Deleting the original file from Discord will also prevent loading it with this site.
 
+
+## I ADDMANMINECRAFT DO NOT TAKE AND OWNERSHIP OF THIS PROJECT AND OR FILES HERE.
+
 ## Example
 Link to a txt file uploaded to Discord:
 > https://cdn.discordapp.com/attachments/147698382092238848/506154212124786689/example.txt
